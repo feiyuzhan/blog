@@ -1,4 +1,5 @@
-
+Mac上terminal起多个进程的一种solution
+
 ### 需求
 mac上运行3个 command line 的 python脚本，脚本py1和py2是server，脚本py3依赖前两个脚本server的运行。在运行py3并生成report之后关闭3个脚本
 
